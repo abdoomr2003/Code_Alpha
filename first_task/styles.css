@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #1a202c;
+}
+
+h2 {
+    color: #4a5568;
+}
+
+input, button {
+    font-size: 16px;
+}
+
+button:hover {
+    cursor: pointer;
+}
