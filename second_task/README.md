@@ -125,7 +125,7 @@ Ensure the following software is installed:
 - CSS (with Tailwind CSS)
 - JavaScript
 
-### Backend:
+### Backend
 
 - Node.js (with Express.js)
 - SQLite (for persistent storage)
