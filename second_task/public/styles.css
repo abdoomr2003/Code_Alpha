@@ -1,0 +1,31 @@
+/* Custom Styling for the To-Do List */
+body {
+    font-family: Arial, sans-serif;
+}
+
+li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border: 1px solid #e2e8f0; /* Light Gray */
+    border-radius: 5px;
+}
+
+li.complete {
+    text-decoration: line-through;
+    color: #9ca3af; /* Gray for completed tasks */
+}
+
+button.delete {
+    background-color: #f87171; /* Red */
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+button.delete:hover {
+    background-color: #ef4444; /* Darker Red */
+}
