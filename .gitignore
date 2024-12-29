@@ -1,0 +1,4 @@
+first_task/.gitignore
+second_task/.gitignore
+second_task/package-lock.json
+second_task/node_modules/*
